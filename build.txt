@@ -1,0 +1,3 @@
+displayName = Misc Mods
+author = Masq
+version = 0.2

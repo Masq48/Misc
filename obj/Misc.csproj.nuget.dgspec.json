@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\sk8rb\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Misc\\Misc.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\sk8rb\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Misc\\Misc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\sk8rb\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Misc\\Misc.csproj",
+        "projectName": "Misc",
+        "projectPath": "c:\\Users\\sk8rb\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Misc\\Misc.csproj",
+        "packagesPath": "C:\\Users\\sk8rb\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\sk8rb\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Misc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sk8rb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
