@@ -1,3 +1,2 @@
 FollowBullet Pouch
-Inf Bomb
 Prog strength buff
